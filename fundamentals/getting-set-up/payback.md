@@ -9,4 +9,4 @@ GOLD and BOPIXBO
 and get WAX 
 
 here
-* [WAXDAO.io]([https://www.youtube.com/hashtag/bp0x0](https://waxdao.io/pool/bpbwaxpoxol))
+{% embed url="https://waxdao.io/pool/bpbwaxpoxol)" %}
