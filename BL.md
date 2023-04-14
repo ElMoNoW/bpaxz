@@ -14,5 +14,4 @@ EPIC
 g-p-b-v
 LEGENDARY
 k-q-j-x-z
-
-[AtomicHub View](https://wax.atomichub.io/explorer/collection/wax-mainnet/bobopixelaxz#schemas)
+{% embed url="https://wax.atomichub.io/explorer/collection/wax-mainnet/bobopixelaxz#schemas" %}
