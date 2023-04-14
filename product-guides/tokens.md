@@ -18,9 +18,6 @@ ENERGY
 POINTS
 many small once too BOCO for ALL splits
 
-Best Traded at https://alcor.exchange/
+Best Traded at 
 
-
-{% content-ref url="https://alcor.exchange/" %}
-[https://alcor.exchange/](https://alcor.exchange/)
-{% endcontent-ref %}
+{% embed url="https://alcor.exchange/" %}
