@@ -9,7 +9,7 @@
 * [👋 Welcome to BoboPixel0x0's Digital Assets Product AxZ](README.md)
 * [bp0x0abc](bp0x0abc.md)
 * [bpvalue-t-ime](bpvalue-t-ime.md)
-* [buy-wax]buy-wax.md)
+* [buy-wax](buy-wax.md)
 * [drops](drops.md)
 * [map](map.md)
 * [pack_and_nfts_info](pack_and_nfts_info.md)
