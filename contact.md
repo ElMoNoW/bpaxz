@@ -1,20 +1,19 @@
 # Contact
 
-Discord [https://discord.gg/3cH32c9QyU](https://discord.gg/3cH32c9QyU)
+Discord [Discord](https://discord.gg/3cH32c9QyU)
 
-Twitter\
-[https://twitter.com/pixel0x0?t=nsaKoRamOmZt1i1Wc5sHLQ\&s=09](https://twitter.com/pixel0x0?t=nsaKoRamOmZt1i1Wc5sHLQ\&s=09)
+Twitter
+[Twitter](https://twitter.com/pixel0x0?t=nsaKoRamOmZt1i1Wc5sHLQ\&s=09)
 
 Main Collection BoboPixel0x0\
 [https://bobopixel0x0.wordpress.com/](https://bobopixel0x0.wordpress.com/)\
 
+Reddit
+[Reddit](https://reddit.com/r/bobopixeloxo\_pub/?utm\_medium=android\_app\&utm\_source=share)\
 
-Reddit\
-[https://reddit.com/r/bobopixeloxo\_pub/?utm\_medium=android\_app\&utm\_source=share](https://reddit.com/r/bobopixeloxo\_pub/?utm\_medium=android\_app\&utm\_source=share)\
 
-
-YouTube\
-[https://youtube.com/@peoplelikesbymonowproducti9813](https://youtube.com/@peoplelikesbymonowproducti9813)\
+YouTube
+[YouTube](https://youtube.com/@peoplelikesbymonowproducti9813)\
 
 
 Nefty Market\
