@@ -65,7 +65,7 @@
 * [🎨 For Designers](use-cases/for-designers.md)
   * [🧑 Like to Create NFTS](fundamentals/getting-set-up/nftsdesigner.md)
   * [WordPress](map.md)
-  * [📝 Hands on Tools](fundamentals/getting-set-up/handsontools.md)
+  * [📝 Hands on Tools](tools.md)
 
 * [🖥 For Developers](use-cases/for-developers.md)
   * [🧑 Like to Own](fundamentals/getting-set-up/owner.md)
