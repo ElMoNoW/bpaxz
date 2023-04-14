@@ -13,4 +13,4 @@ Pay RAM get NFTS Sell Blend Stake Sync_and_play Recyclying With WIN WIN situatio
 
 Multiverse of Possibilities 
 BoboPixel0x0 is since 2 years growing and you profit too
-![](https://images.unsplash.com/photo-1569144157591-c60f3f82f137?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxmZWF0dXJlfGVufDB8fHx8MTY2MDU4MzM1OQ\&ixlib=rb-1.2.1\&q=80)
+![]([https://images.unsplash.com/photo-1569144157591-c60f3f82f137?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxmZWF0dXJlfGVufDB8fHx8MTY2MDU4MzM1OQ\&ixlib=rb-1.2.1\&q=80](https://www.google.com/search?q=bp0x0+youtube&spell=1&sa=X&ved=2ahUKEwj6mNX8van-AhVfa2wGHdO_DM4QBSgAegQIBxAB&biw=954&bih=541&dpr=1))
