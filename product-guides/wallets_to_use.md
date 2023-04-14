@@ -9,7 +9,7 @@ Wombat is great multy crypto wallet with own token airdrop for playing games FRE
 {% embed url="https://all-access.wax.io/" %}
 WAX.Cloud wallet also FREE and can BUY KEY later  BASIC wallet FULL Funktionally
 
-may there be others but those im using 
+may there be others but those are best... 
 
 
 
