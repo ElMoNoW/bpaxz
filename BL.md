@@ -15,6 +15,4 @@ g-p-b-v
 LEGENDARY
 k-q-j-x-z
 
-{% content-ref url="[AtomicHub View](https://wax.atomichub.io/explorer/collection/wax-mainnet/bobopixelaxz#schemas)" %}
 [AtomicHub View](https://wax.atomichub.io/explorer/collection/wax-mainnet/bobopixelaxz#schemas)
-{% endcontent-ref %}
