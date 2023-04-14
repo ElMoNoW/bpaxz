@@ -58,7 +58,7 @@
   * [📝 Channels](fundamentals/getting-set-up/cha.md)
   * [📝 Rolls](fundamentals/getting-set-up/rol.md)
   * [🧑 Stats](fundamentals/getting-set-up/display.md)
-  * [📝 Servers](fundamentals/getting-set-up/serverlist.md)
+  * [📝 Servers](fundamentals/getting-set-up/discordserverlist.md)
 
 ## Use Cases
 
