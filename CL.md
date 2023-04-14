@@ -44,6 +44,4 @@ g-p-b-v
 LEGENDARY
 k-q-j-x-z
 
-{% content-ref url="[AtomicHub View](https://wax.atomichub.io/explorer/collection/wax-mainnet/bobopixelaxz#templates))" %}
-[AtomicHub View](https://wax.atomichub.io/explorer/collection/wax-mainnet/bobopixelaxz#templates))
-{% endcontent-ref %}
+[AtomicHub View](https://wax.atomichub.io/explorer/collection/wax-mainnet/bobopixelaxz#templates)
