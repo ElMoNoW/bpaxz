@@ -1,2 +1,66 @@
 # Commands for Bobtherobot
-[===Commands to Setup===]**\n\n **.help** | Shows this message.\n\n **.start** | Start your Game Character!\n\n **.setname <Your Name>** | Give Yourself a Name\n\n **.setcastlename <Your Castle Name>** | Give Your Castle a Name\n\n **.setwallet <Wallet Address>** | your Wallet Address.\n\n **.sync** | If you buy new NFTs.\n [==============]\n\n\n **[===Commands for Info===]**\n\n **.stats** | View your player stats.(st)\n\n **.statsall** | View all stats.(sw)\n\n **.statscastle** | View your castle stats.(33)\n\n **.inv** | View your inventory.(i)\n\n **.boboinv** | Show You BoboPixel0x0 NFTs.(bpinv)\n\n **.travel** | Travel to other locations.(t)\n\n **.key** | Open the Castle Buy Menu \n\n **.bp0x0inv** | See Items in Slots\n\n **.check <TemplateID>** | Look up any NFT on the AomicHub Chain.\n\n **.info** | Show bot info.\n [==============]\n\n\n**[=== Commands to get Stronger===]**\n\n **.bp0x0 + SlotNR**| equip Items in Slot\n\n **.rest** | Rest your player (r)\n\n **.use <Pot>** | Use a potion.\n\n **.upgrade** | Upgrade your Castle(u)\n\n **.update** | Update your stats(up)\n\n **.skillinv < Slot_NR 0-3 ** | Equipt your Skill(sk)\n [==============] \n\n\n**[=== Commands PvP===]**\n\n **.fight** | Fight enemies(!f)\n\n **.attack @User** | Fight enemies(f)\n\n **.steal @User** | Try to steal someting\n\n **.send** | Send your stuff to someone.\n[==============]\n\n\n**[=== Commands to get Rich===]**\n\n **.buy** | Buy items\n\n **.sell** | sell items(at Market)\n\n **.bag** | Open a Bag of Items\n\n **.guess <amount> BoCo 1-100** | Number guess game.\n\n **.lucky ** | Number Luck Spin.\n\n **.box** | Open a Box of Itmes\n\n **.daily** | Claim your daily reward!\n\n **.hunt** | Hunt for Food(need Rifle)\n **.melt** | Melt Stone and Wood for Gold and Metal (need Oven)\n\n **.dig** | Dig for Gifts(need Shovel)\n\n **.mine** | Mine Ore.(need Pick)\n\n **.chop** | Chop some trees.(need Axe)\n\n **.b** | Claim a 5 Minutes Drop of BP1x1!\n\n **.p** | Blend All posible BP1x1 to there next Value!\n\n **.code <NFT-Code>** | NFT must be in Your Wallet!\n[==============]\n Token Commands\n\n **.bals ** | Token of BP0x0 in Your Wallet!\n \n **.wallet/.w ** | Your Token's \n\n **.twax ** | WAXp Price Ticker + BUY Link \n\n[==============]\n **.sha256 <Text>** | Gives md5 and sha256 Text as Hash\n\n **.whitelist | .wl <Wallet>** | Register For Drop\n[==============]\nTeleport to BoboPixel0x0Centrale
+[===Commands to Setup===]
+**.help** | Shows this message.
+**.start** | Start your Game Character!
+**.setname <Your Name>** | Give Yourself a Name
+**.setcastlename <Your Castle Name>** | Give Your Castle a Name
+**.setwallet <Wallet Address>** | your Wallet Address.
+**.sync** | If you buy new NFTs.
+  
+[==============]
+**[===Commands for Info===]**
+**.stats** | View your player stats.(st)
+**.statsall** | View all stats.(sw)
+**.statscastle** | View your castle stats.
+**.inv** | View your inventory.
+**.boboinv** | Show You BoboPixel0x0 NFTs.(bpinv)
+**.travel** | Travel to other locations.
+**.key** | Open the Castle Buy Menu 
+**.bp0x0inv** | See Items in Slots
+**.check <TemplateID>** | Look up any NFT on the AomicHub Chain.
+**.info** | Show bot info.
+  
+[==============]
+**[=== Commands to get Stronger===]**
+**.bp0x0 + SlotNR**| equip Items in Slot
+**.rest** | Rest your player.
+**.use <Pot>** | Use a potion.
+**.upgrade** | Upgrade your Castle.
+**.update** | Update your stats.
+**.skillinv < Slot_NR 0-3 ** | Equipt your Skill
+
+[==============]
+**[=== Commands PvP===]**
+**.fight** | Fight enemies
+**.attack @User** | Fight enemies
+**.steal @User** | Try to steal someting
+**.send** | Send your stuff to someone.
+
+[==============]
+**[=== Commands to get Rich===]**
+**.buy** | Buy items
+**.sell** | sell items(at Market)
+**.bag** | Open a Bag of Items
+**.guess <amount> BoCo 1-100** | Number guess game.
+**.lucky ** | Number Luck Spin.
+**.box** | Open a Box of Itme
+**.daily** | Claim your daily reward!
+**.hunt** | Hunt for Food(need Rifle)
+**.melt** | Melt Stone and Wood for Gold and Metal (need Oven)
+**.dig** | Dig for Gifts(need Shovel)
+**.mine** | Mine Ore.(need Pick)
+**.chop** | Chop some trees.(need Axe)
+**.b** | Claim a 5 Minutes Drop of BP1x1!
+**.p** | Blend All posible BP1x1 to there next Value!
+**.code <NFT-Code>** | NFT must be in Your Wallet!
+  
+[==============]
+Token Commands
+**.bals ** | Token of BP0x0 in Your Wallet!
+**.wallet/.w ** | Your Token's
+**.twax ** | WAXp Price Ticker + BUY Link 
+  
+[==============]
+**.sha256 <Text>** | Gives md5 and sha256 Text as Hash
+**.whitelist | .wl <Wallet>** | Register For Drop\n[==============]
+Teleport to BoboPixel0x0Centrale
