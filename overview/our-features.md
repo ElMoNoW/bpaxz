@@ -14,7 +14,8 @@ Pay RAM get NFTS Sell Blend Stake Sync_and_play Recyclying With WIN WIN situatio
 Multiverse of Possibilities 
 BoboPixel0x0 is since 2 years growing and you profit too
 
+* [📎 Hands on NFTS](https://www.youtube.com/hashtag/bp0x0)
+* https://www.youtube.com/hashtag/bp0x0
+
 {% content-ref url="[#bp0x0youtube](https://www.youtube.com/hashtag/bp0x0)" %} x2 & x1 Level Drops {% endcontent-ref %}
 
-
-https://www.youtube.com/hashtag/bp0x0
