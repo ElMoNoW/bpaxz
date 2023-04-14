@@ -1,5 +1,7 @@
 # BurningLetters
 
+
+BurningLetters can get from Package Nr.1 
 26 NFTS 
 
 COMMON
