@@ -121,3 +121,7 @@ Member\_Discount Infinity Mints C\_10%, U\_20%, R\_30%, E\_40%, L\_50%
 ### Hello Friend
 
 Getting News Out and First NFTS..Eve…#bpaxz #bp0x0 #bp0x0abc
+
+{% content-ref url="[AtomicHub View](https://wax.atomichub.io/explorer/collection/wax-mainnet/bobopixelaxz#schemas)" %}
+[AtomicHub View](https://wax.atomichub.io/explorer/collection/wax-mainnet/bobopixelaxz#schemas)
+{% endcontent-ref %}
