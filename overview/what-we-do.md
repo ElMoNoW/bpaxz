@@ -1,40 +1,28 @@
 # 💡 What we do
 
-{% hint style="info" %}
-**Bobo tip:** Value is What you want.!.!.
-{% endhint %}
+Bobo tip: Value is what you want.!.!.
 
 ## Blockchain Born
 
-We ca Easy create a NFTS Collection and start to Mint...But the True Value of doing is What you Make out of it..
-BoboPixel0x0 Digital Assets Collection make a New Note in the Jungle with Value Increase NFTS Trades Two for One next Level or One for One CollectingNumbers Limited Mints Double Value an Infinite Universe of Possiblitys With True Proof of Ownership through Blockchain technology... Finding Use for NFTS is Easy as we can Get any data at any time in less than 3 sec... Old Traditional Data storing combined with decentralized On Chain Data make it possible to create Value in whatever you we do...still on improving still on learning...but the Future is rich.
+We can easily create an NFTs Collection and start minting... But the true value lies in what you make out of it.
 
+BoboPixel0x0 Digital Assets Collection makes a new note in the Jungle, with value-increasing NFTs trades. Two for One next level or One for One CollectingNumbers Limited Mints double value. An infinite universe of possibilities with true proof of ownership through Blockchain technology... Finding use for NFTs is easy as we can get any data at any time in less than 3 seconds... Old Traditional Data storing combined with decentralized On Chain Data make it possible to create value in whatever you do... still improving still learning... but the Future is rich.
 
-As many Side Projects Make it even Richer for all you might check out
-{% embed url="https://bobopixel0x0.wordpress.com/" %}
-And New
-{% embed url="https://bp0x0abc.home.blog/" %}
-And...
-1% Done
-{% embed url="https://dissociativeentityswitcher.wordpress.com/" %}
-And...
-[Space.0x0](https://spaceoxo.wordpress.com/)
-{% embed url="https://spaceoxo.wordpress.com/" %}
-And...
-[TheLastHuman](https://thelasthuman.data.blog/)
-{% embed url="https://thelasthuman.data.blog/" %}
-And...
-[Coffee.0x0](https://coffeeoxo.wordpress.com/)
-{% embed url="https://coffeeoxo.wordpress.com/" %}
-And...
-{% embed url="https://fakeingheros.wordpress.com/" %}
-And...
+As many Side Projects make it even richer for all, you might check out:
+
+- BoboPixel0x0 WordPress: https://bobopixel0x0.wordpress.com/
+- BP0x0ABC Home Blog: https://bp0x0abc.home.blog/
+- DissociativeEntitySwitcher WordPress: https://dissociativeentityswitcher.wordpress.com/
+- Space.0x0: https://spaceoxo.wordpress.com/
+- TheLastHuman: https://thelasthuman.data.blog/
+- Coffee.0x0: https://coffeeoxo.wordpress.com/
+- FakeingHeros WordPress: https://fakeingheros.wordpress.com/
+
+And there's more to come...
+
 0% done may on paper...
-School we Teach you with certificate
+School we teach you with a certificate
 Characters: Poker - Pixels - Marbless
-Code on NFTS 
+Code on NFTs 
 
 As I come back here to update...
-
-
-
