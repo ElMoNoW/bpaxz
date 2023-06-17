@@ -1,5 +1,3 @@
-Sure! Here's a more readable version:
-
 Blockchain: Blockchain is a technology that enables decentralized storage and transmission of data. It uses a chain of blocks to store data, with each block referring to the previous one, creating a secure and transparent ledger.
 
 NFTs (Non-Fungible Tokens): NFTs represent unique digital assets stored on the blockchain. They provide real ownership as their data is stored on the blockchain, ensuring the uniqueness and authenticity of the assets they represent.
