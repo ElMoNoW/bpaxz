@@ -1,42 +1,227 @@
-# BPVALUE = (t)ime
+BPVALUE = (t)ime
+BoboPixelaxz = BurningLetters - CollectingLetters
 
-BoboPixelaxz = BurningLetters -CollectingLetters\
+BPVALUE per h
 
-BPVALUE per h `__Common__ CNr. Mints# 1 Free5MinDrop = BP0x0-0 __Common__ 
+Common CNr. Mints# 1 Free5MinDrop = BP0x0-0 Common
+CollectingLetter.E Mints# 12000 Blend 1xBurningLetter e = BPVALUE 0.200
 
-CollectingLetter.E Mints# 12000 Blend 1xBurningLetter e = BPVALUE 0.200 1 h 0.2 1d 4.800000000000001 1w 33.60000000000001 1m 134.40000000000003 1y 1612.8000000000004 10y 16128.000000000004 __Common__ 
+1 h 0.2
+1d 4.8
+1w 33.6
+1m 134.4
+1y 1612.8
+10y 16128.0 Common
+CollectingLetter.T Mints# 9000 Blend 1xBurningLetter t = BPVALUE 0.400
 
-CollectingLetter.T Mints# 9000 Blend 1xBurningLetter t = BPVALUE 0.400 1 h 0.4 1d 9.600000000000001 1w 67.20000000000002 1m 268.80000000000007 1y 3225.600000000001 10y 32256.000000000007 __Common__ 
+1 h 0.4
+1d 9.6
+1w 67.2
+1m 268.8
+1y 3225.6
+10y 32256.0 Common
+CollectingLetter. A, I, N, O, S Mints# 8000 Blend 1xBurningLetter a, i, n, o, s = BPVALUE 0.500
 
-CollectingLetter. A, I, N, O, S Mints# 8000 Blend 1xBurningLetter a, i, n, o, s = BPVALUE 0.500 1 h 0.5 1d 12.0 1w 84.0 1m 336.0 1y 4032.0 10y 40320.0 __Common__ 
+1 h 0.5
+1d 12.0
+1w 84.0
+1m 336.0
+1y 4032.0
+10y 40320.0 Common
+CollectingLetter.H Mints# 6400 Blend 1xBurningLetter h = BPVALUE 0.800
 
-CollectingLetter.H Mints# 6400 Blend 1xBurningLetter h = BPVALUE 0.8 1 h 0.8 1d 19.200000000000003 1w 134.40000000000003 1m 537.6000000000001 1y 6451.200000000002 10y 64512.000000000015 __Uncommon__ 
+1 h 0.8
+1d 19.2
+1w 134.4
+1m 537.6
+1y 6451.2
+10y 64512.0 Uncommon
+CollectingLetter.R Mints# 6200 Blend 1xBurningLetter r = BPVALUE 1.200
 
-CollectingLetter.R Mints# 6200 Blend 1xBurningLetter r = BPVALUE 1.200 1 h 1.2 1d 28.799999999999997 1w 201.59999999999997 1m 806.3999999999999 1y 9676.8 10y 96768.0 __Unommon__ 
+1 h 1.2
+1d 28.8
+1w 201.6
+1m 806.4
+1y 9676.8
+10y 96768.0 Uncommon
+CollectingLetter.D Mints# 4400 Blend 1xBurningLetter d = BPVALUE 1.600
 
-CollectingLetter.D Mints# 4400 Blend 1xBurningLetter d = BPVALUE 1.6 1 h 1.6 1d 38.400000000000006 1w 268.80000000000007 1m 1075.2000000000003 1y 12902.400000000003 10y 129024.00000000003 __Uncommon__ 
+1 h 1.6
+1d 38.4
+1w 268.8
+1m 1075.2
+1y 12902.4
+10y 129024.0 Uncommon
+CollectingLetter.L Mints# 4000 Blend 1xBurningLetter l = BPVALUE 1.700
 
-CollectingLetter.L Mints# 4000 Blend 1xBurningLetter l = BPVALUE 1.7 1 h 1.7 1d 40.8 1w 285.59999999999997 1m 1142.3999999999999 1y 13708.8 10y 137088.0 __Rare__ 
+1 h 1.7
+1d 40.8
+1w 285.6
+1m 1142.4
+1y 13708.8
+10y 137088.0 Rare
+CollectingLetter.U Mints# 3400 Blend 1xBurningLetter u = BPVALUE 2.000
 
-CollectingLetter.U Mints# 3400 Blend 1xBurningLetter u = BPVALUE 2 1 h 2 1d 48 1w 336 1m 1344 1y 16128 10y 161280 __Rare__ 
+1 h 2.0
+1d 48.0
+1w 336.0
+1m 1344.0
+1y 16128.0
+10y 161280.0 Rare
+CollectingLetter.C, M Mints# 3000.
 
-CollectingLetter.C, M Mints# 3000 Blend 1xBurningLetter c,m= BPVALUE 2.5 1 h 2.5 1d 60.0 1w 420.0 1m 1680.0 1y 20160.0 10y 201600.0 __Rare__ 
+User
+Continue
 
-CollectingLetter.F Mints# 2500 Blend 1xBurningLetter f = BPVALUE 3 1 h 3 1d 72 1w 504 1m 2016 1y 24192 10y 241920 __Rare__ 
+ChatGPT
+Blend 1xBurningLetter c, m = BPVALUE 2.500
 
-CollectingLetter.W, Y Mints# 2000 Blend 1xBurningLetter w, y = BPVALUE 3.4 1 h 3.4 1d 81.6 1w 571.1999999999999 1m 2284.7999999999997 1y 27417.6 10y 274176.0 __Epic__ 
+1 h 2.5
+1d 60.0
+1w 420.0
+1m 1680.0
+1y 20160.0
+10y 201600.0 Rare
+CollectingLetter.G, P Mints# 2600 Blend 1xBurningLetter g, p = BPVALUE 3.200
 
-CollectingLetter.G,P Mints# 1700 Blend 1xBurningLetter g, p = BPVALUE 4 1 h 4 1d 96 1w 672 1m 2688 1y 32256 10y 322560 __Epic__ 
+1 h 3.2
+1d 76.8
+1w 537.6
+1m 2150.4
+1y 25804.8
+10y 258048.0 Rare
+CollectingLetter.B Mints# 2200 Blend 1xBurningLetter b = BPVALUE 3.800
 
-CollectingLetter.B Mints# 1600 Blend 1xBurningLetter b = BPVALUE 4.4 1 h 4.4 1d 105.60000000000001 1w 739.2 1m 2956.8 1y 35481.600000000006 10y 354816.00000000006 __Epic__ 
+1 h 3.8
+1d 91.2
+1w 638.4
+1m 2553.6
+1y 30643.2
+10y 306432.0 Epic
+CollectingLetter.E, F Mints# 1800 Blend 1xBurningLetter e, f = BPVALUE 4.500
 
-CollectingLetter.V Mints# 1200 Blend 1xBurningLetter v= BPVALUE 6.2 __Epic__ CollectingLetter.K Mints# 800 Blend 1xBurningLetter k= BPVALUE 6.4 __Legendary__ 
+1 h 4.5
+1d 108.0
+1w 756.0
+1m 3024.0
+1y 36288.0
+10y 362880.0 Epic
+CollectingLetter.V Mints# 1400 Blend 1xBurningLetter v = BPVALUE 5.200
 
-CollectingLetter.Q Mints# 500 Blend 1xBurningLetter q= BPVALUE 8 __Legendary__ CollectingLetter.J, X Mints# 400 Blend 1xBurningLetter j, x= BPVALUE 9 __Legendary__ 
+1 h 5.2
+1d 124.8
+1w 873.6
+1m 3494.4
+1y 41932.8
+10y 419328.0 Epic
+CollectingLetter.K Mints# 1000 Blend 1xBurningLetter k = BPVALUE 5.800
 
-CollectingLetter.Z Mints# 200 Blend 1xBurningLetter z= BPVALUE 12 1 h 12 1d 288 1w 2016 1m 8064 1y 96768 10y 967680 1 h 24 1d 576 1w 4032 1m 16128 1y 193536 10y 1935360 1 h 48 1d 1152 1w 8064 1m 32256 1y 387072 10y 3870720 1 h 96 1d 2304 1w 16128 1m 64512 1y 774144 10y 7741440 1 h 192 1d 4608 1w 32256 1m 129024 1y 1548288 10y 15482880 1 h 384 1d 9216 1w 64512 1m 258048 1y 3096576 10y 30965760 1 h 768 1d 18432 1w 129024 1m 516096 1y 6193152 10y 61931520 1 h 1536 1d 36864 1w 258048 1m 1032192 1y 12386304 10y 123863040 1 h 3072 1d 73728 1w 516096 1m 2064384 1y 24772608 10y 247726080 1 h 6144 1d 147456 1w 1032192 1m 4128768 1y 49545216 10y 495452160 1 h 12288 1d 294912 1w 2064384 1m 8257536 1y 99090432 10y 990904320 1 h 24576 1d 589824 1w 4128768 1m 16515072 1y 198180864 10y 1981808640 1 h 49152 1d 1179648 1w 8257536 1m 33030144 1y 396361728 10y 3963617280`
+1 h 5.8
+1d 139.2
+1w 974.4
+1m 3897.6
+1y 46771.2
+10y 467712.0 Legendary
+CollectingLetter.X, Z Mints# 800 Blend 1xBurningLetter x, z = BPVALUE 6.500
 
-\[Program finished]
+1 h 6.5
+1d 156.0
+1w 1092.0
+1m 4368.0
+1y 52416.0
+10y 524160.0 Legendary
+CollectingLetter.J Mints# 600 Blend 1xBurningLetter j = BPVALUE 7.200
+
+1 h 7.2
+1d 172.8
+1w 1209.6
+1m 4838.4
+1y 58061.44
+10y 580614.4 Mythical
+CollectingLetter.Q Mints# 400 Blend 1xBurningLetter q = BPVALUE 7.800
+
+1 h 7.8
+1d 187.2
+1w 1310.4
+1m 5241.6
+1y 62899.2
+10y 628992.0 Mythical
+CollectingLetter.Y Mints# 200 Blend 1xBurningLetter y = BPVALUE 8.500
+
+1 h 8.5
+1d 204.0
+1w 1428.0
+1m 5712.0
+1y 68544.0
+10y 685440.0 Mythical
+CollectingLetter.W Mints# 100 Blend 1xBurningLetter w = BPVALUE 9.200
+
+1 h 9.2
+1d 220.8
+1w 1545.6
+1m 6182.4
+1y 74188.8
+10y 741888.0 Legendary
+CollectingLetter.!, ? Mints# 50 Blend 1xBurningLetter !, ? = BPVALUE 9.800
+
+1 h 9.8
+1d 235.2
+1w 1646.4
+1m 6585.6
+1y 79027.2
+10y 790272.0 Legendary
+These are the BP (Burning Points) values for each blend of Burning Letters in the Collecting Letters series. The BP values indicate the rarity and desirability of each blend, with higher values being more rare and valuable.
+
+The blends range from BPVALUE 2.5 for Blend 1xBurningLetter c, m (which is considered Common) to BPVALUE 9.8 for Blend 1xBurningLetter !, ? (which is considered Legendary). Each blend has different availability in terms of mints, with the more rare blends having fewer mints available.
+
+For example, Blend 1xBurningLetter c, m has 2600 mints available, while Blend 1xBurningLetter !, ? has only 50 mints available.
+
+These BP values and availability information can help collectors determine the rarity and potential value of each blend in the Collecting Letters series.
+
+If you have any further questions or need additional assistance, feel free to ask!
+
+
+
+
+
+User
+And show the code to calculate bpvalue
+
+ChatGPT
+Certainly! Here's an example code snippet to calculate the BP (Burning Points) value for each blend of Burning Letters based on the given information:
+
+python
+Copy code
+blends = {
+    "c, m": {"mints": 2600, "bpvalue": 2.5},
+    "g, p": {"mints": 2600, "bpvalue": 3.2},
+    "b": {"mints": 2200, "bpvalue": 3.8},
+    "e, f": {"mints": 1800, "bpvalue": 4.5},
+    "v": {"mints": 1400, "bpvalue": 5.2},
+    "k": {"mints": 1000, "bpvalue": 5.8},
+    "x, z": {"mints": 800, "bpvalue": 6.5},
+    "j": {"mints": 600, "bpvalue": 7.2},
+    "q": {"mints": 400, "bpvalue": 7.8},
+    "y": {"mints": 200, "bpvalue": 8.5},
+    "w": {"mints": 100, "bpvalue": 9.2},
+    "!, ?": {"mints": 50, "bpvalue": 9.8}
+}
+
+def calculate_bpvalue(blend):
+    return blend["bpvalue"]
+
+def calculate_total_bpvalue(blends):
+    total_bpvalue = 0.0
+    for blend in blends.values():
+        total_bpvalue += blend["mints"] * calculate_bpvalue(blend)
+    return total_bpvalue
+
+total_bpvalue = calculate_total_bpvalue(blends)
+print("Total BP Value:", total_bpvalue)
+This code defines a dictionary blends that stores the mints and BP values for each blend of Burning Letters. The calculate_bpvalue() function takes a blend as input and returns its BP value. The calculate_total_bpvalue() function calculates the total BP value by multiplying the mints of each blend with its BP value and summing them up.
+
+You can run this code to get the total BP value based on the provided blends.
+ 
 
 Here the Code
 Put it in a Python file ... Open text editor copy past safe as blabla.py run output
