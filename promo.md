@@ -12,7 +12,7 @@ Complete Quest Missions and Milestones:
 - Like, Share, Subscribe
 - Write & Create
 
-Participate in Discord Giveaways (broken-reference).
+Participate in Discord Giveaways (https://discord.gg/3cH32c9QyU).
 
 Get exclusive BP0x0 NFTs with a Cheap Drop (ONLY WITH MEMBERPASS).
 
@@ -42,4 +42,3 @@ Complete special quests on our Discord community.
 Stay tuned for common, uncommon, rare, epic, and legendary mission quests to earn rewards and increase your BoboValue.
 
 Join the excitement and be part of the BoboValue community!
-Please note that the broken-reference placeholder needs to be replaced with the actual link to the Discord Giveaways.
