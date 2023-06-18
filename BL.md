@@ -1,6 +1,6 @@
 # BurningLetters
 
-BurningLetters can be obtained from Package Nr.1 and consists of 26 NFTs.
+BurningLetters can be obtained from Packages Only and consists of 26 NFTs.
 
 **COMMON**
 - e-t-a-i-n-o-s
